@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: 涂鸦笔记
+description: 记录各种大坑小坎
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-hacker

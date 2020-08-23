@@ -1,3 +1,3 @@
 # test
 
-[all blogs](..)
+[all blogs](./)

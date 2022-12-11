@@ -24,7 +24,7 @@ title: Zujun's Blog
 #  Notes from study, work and travel.
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://trotyoung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trotyoung
 github_username:  trotyoung
 

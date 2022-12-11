@@ -23,7 +23,7 @@ title: Zujun's Blog
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Notes from study, work and travel.
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://trotyoung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trotyoung
 github_username:  trotyoung
